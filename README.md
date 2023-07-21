@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="image" width="400px"  src="![image](https://github.com/abhishekkr523/abhishekkr523/assets/118898910/968b2a3c-a331-418d-9506-b4c7301e105b)
-">
+<img align="right" alt="image" width="400px"  src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkr523&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkr523" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abhishekkr523" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekkr523?logo=twitter&style=for-the-badge" alt="abhishekkr523" /></a> </p>
