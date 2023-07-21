@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="600px" height="300px" src="https://img.freepik.com/free-vector/development-operations-banner-devops-concept_107791-2220.jpg?t=st=1689939068~exp=1689939668~hmac=3b35a9222f087157e38b4b18b531a16d6f0ce0bd9d5567f22448cf5ab3fcae71">
+<img align="center" alt="banner" width="600px" height="200px" src="https://img.freepik.com/free-vector/development-operations-banner-devops-concept_107791-2220.jpg?t=st=1689939068~exp=1689939668~hmac=3b35a9222f087157e38b4b18b531a16d6f0ce0bd9d5567f22448cf5ab3fcae71">
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="image" width="400px"  src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966">
