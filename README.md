@@ -1,7 +1,7 @@
 [![MasterHead](https://www.dreamstime.com/stock-illustration-programmer-desk-mockup-coding-notes-computer-screens-laptop-image82387630)
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="codding" width="400" src="https://www.freepik.com/free-vector/development-operations-banner-devops-concept_8251795.htm#page=4&query=cartoon%20programmer&position=5&from_view=keyword&track=ais"> </img>
+<img align="right" alt="codding" width="400" src="https://www.freepik.com/free-vector/development-operations-banner-devops-concept_8251795.htm#page=4&query=cartoon%20programmer&position=5&from_view=keyword&track=ais"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkr523&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkr523" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abhishekkr523" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekkr523?logo=twitter&style=for-the-badge" alt="abhishekkr523" /></a> </p>
