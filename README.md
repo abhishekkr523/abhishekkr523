@@ -20,6 +20,8 @@
 - 📫 Reach me at **7033abhishek@gmail.com**
 - ⚡ Fun fact: I turn coffee into code ☕️ ➡️ 💻
 
+<br />
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/abhishekkr523" target="_blank">
@@ -35,6 +37,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
+
+<br />
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -76,39 +80,10 @@
   </a>
 </p>
 
-<h3 align="center">Featured Projects:</h3>
-<p align="center">
-<table>
-  <tr>
-    <td><b>College Management System</b></td>
-    <td>Angular · Laravel · MySQL</td>
-    <td><a href="https://github.com/abhishekkr523/collegeProject/tree/abhishek">Frontend</a> · <a href="https://github.com/abhishekkr523/collegeProjectApi/tree/abhishek">Backend</a></td>
-  </tr>
-  <tr>
-    <td><b>Jira Clone</b></td>
-    <td>Angular · Angular Material</td>
-    <td><a href="https://github.com/abhishekkr523/Jira_clone">Repo</a></td>
-  </tr>
-  <tr>
-    <td><b>Flipkart Clone</b></td>
-    <td>Angular · Bootstrap · RxJS</td>
-    <td><a href="https://github.com/abhishekkr523/flipCart_clone_app">Repo</a></td>
-  </tr>
-  <tr>
-    <td><b>Home Voting Monitoring App</b></td>
-    <td>Angular · Node.js · MongoDB</td>
-    <td><a href="https://github.com/abhishekkr523/EVMtracker">Repo</a></td>
-  </tr>
-</table>
-</p>
+<br />
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkr523&show_icons=true&locale=en&theme=default" alt="abhishekkr523" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkr523&show_icons=true&locale=en&layout=compact" alt="abhishekkr523" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishekkr523&theme=default" alt="abhishekkr523" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishekkr523&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="abhishekkr523's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkr523&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
