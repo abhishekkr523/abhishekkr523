@@ -4,10 +4,6 @@
 <h3 align="center">Full Stack Developer (Angular & Laravel) from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966" alt="Coding Image" width="400px" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekkr523&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkr523" />
   <a href="https://www.linkedin.com/in/abhishekkr523" target="_blank">
     <img src="https://img.shields.io/badge/Open%20to%20Work-Full%20Stack%20%7C%20Laravel%20%7C%20Angular-brightgreen?style=flat" alt="Open to work" />
@@ -16,7 +12,7 @@
 
 - 🔭 I'm currently building **CeleBigo** as an Associate Software Engineer — a multi-tenant SaaS platform (Angular + Laravel) with wallet/escrow payments, multi-currency support, and payment gateway integrations (Stripe, Razorpay)
 - 🌱 I'm currently deepening my knowledge of **NgRx**, **Nx Monorepos**, and **Module Federation**
-- 💼 Open to **Full Stack**, **Laravel**, and **Angular Developer** roles — available to join within 30 days
+- 💼 Open to **Full Stack**, **Laravel**, and **Angular Developer** roles — available to join.
 - 📫 Reach me at **7033abhishek@gmail.com**
 - ⚡ Fun fact: I turn coffee into code ☕️ ➡️ 💻
 
@@ -32,9 +28,6 @@
   </a>
   <a href="https://twitter.com/abhishekkr523" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/abhishekkr523" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
 
@@ -82,8 +75,3 @@
 
 <br />
 
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhishekkr523&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="abhishekkr523's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkr523&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
